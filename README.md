@@ -1,3 +1,3 @@
-# shivang0.github.io
+# Shivang Trivedi
 My Portfolio site
 ----------------------
